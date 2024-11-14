@@ -1,8 +1,11 @@
-# React + Vite
+# Technology Stack
+1) React & Tailwind CSS: Delivers a modern and responsive user interface.
+2) Redux & Axios: State management and API requests.
+3) Shadcn UI: UI component library for enhanced design consistency.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Prerequisites
+Node.js and npm 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Repo Link of Crypto-Treading-Platform---Backend
+https://github.com/Shubhtiwari29/Crypto-Treading-Platform---Backend
