@@ -6,9 +6,7 @@ const CustomeToast = ({ message, show, onClose }) => {
 
     const handleCloseToast = () => {
         setShowToast(false);
-      };
-
-      
+      };    
   useEffect(() => {
     if (showToast) {
       const timer = setTimeout(() => {
